@@ -1,4 +1,3 @@
-# car-rental
 
 # Car Rental MERN Stack Web App
 Welcome to the Car Rental MERN Stack Web App repository! This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack and is designed to facilitate car rentals.
