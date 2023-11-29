@@ -1,0 +1,14 @@
+/* Footer.css */
+
+.footer {
+    background-color: #000000; /* Set your desired grey color */
+    padding: 20px; /* Adjust padding as needed */
+  }
+  
+  .text-lg {
+    font-size: 1.5em; /* Adjust font size as needed */
+    color: #fff; /* Set text color to white or any contrasting color */
+  }
+  .text-l{
+    color: white;
+  }

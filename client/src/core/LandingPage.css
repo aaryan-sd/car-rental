@@ -1,0 +1,79 @@
+/* LandingPage.css */
+
+.landing-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh; /* Set the height to cover the entire viewport */
+    background: url('bgcretaedit.png') center/cover no-repeat; /* Set your image path */
+  }
+  
+  .left-section,
+  .right-section {
+    flex: 1;
+    padding: 50px; /* Adjust padding as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .left-section {
+    background: transparent; /* Adjust the transparency as needed */
+  }
+  
+  .right-section {
+    background: transparent; /* Set the background to transparent */
+  }
+  
+  
+  .text-content {
+    text-align: left;
+    color: rgb(2, 2, 2); /* Set text color */
+    margin-top: -10px;
+    margin-left: 120px;
+    font-family: WF Visual Sans,sans-serif;
+    
+  background-color: rgba(255, 255, 255, 0.259); /* Transparent white background */
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 15px;
+  }
+  
+  .text-content h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  .text-content p {
+    font-size: 1.5em;
+  }
+  
+
+  .highlight-section {
+    margin-top: 0px; /* Adjust the margin-top as needed for spacing */
+    padding: 20px;
+    padding-top: 70px;
+    background-color: #000000; /* Set a light grey background color */
+    border-radius: 0px; /* Add border radius for rounded corners */
+    text-align: center;
+    color: white;
+  }
+  
+  .highlight-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: orangered;
+  }
+  
+  .highlight-section ul {
+    list-style: none;
+    padding: 0;
+    color: white;
+    padding-bottom: 50px;
+  }
+  
+  .highlight-section li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: white;
+  }
