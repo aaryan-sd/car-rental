@@ -8,13 +8,18 @@ Follow these instructions to get a copy of the project up and running on your lo
 # Prerequisites
 Make sure you have the following installed on your machine:
 
-Node.js: Download and install Node.js
-MongoDB: Install MongoDB
-Installing
-Clone the repository to your local machine.
-bash
-Copy code
-git clone [https://github.com/aaryan-sd/car-rentaln.git](https://github.com/aaryan-sd/car-rental)
+Node.js: Download and install Node.js    
+
+MongoDB: Install MongoDB   
+
+Installing   
+
+Clone the repository to your local machine.   
+
+bash   
+
+<samp>git clone [https://github.com/aaryan-sd/car-rentaln.git](https://github.com/aaryan-sd/car-rental) </samp>   
+
 Navigate to the project directory.
 bash
 Copy code
